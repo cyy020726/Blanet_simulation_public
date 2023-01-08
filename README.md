@@ -5,3 +5,11 @@ Here you can find the course code of the simulation we wrote for the course "How
 
 https://user-images.githubusercontent.com/76751501/211196320-75c5bd4d-20df-4ae7-b0b8-3ae7e4b370e0.mp4
 
+
+We have also customized a predator-prey model to simulate the development of the population of the aliens and their preys. You are welcome to play with the begin conditions in Predator_prey_simulation.py. The actual simulation is in the folder Population_Simulation. For those who are reading our report, here is the recording of the simulation we used in our report:
+
+
+
+https://user-images.githubusercontent.com/76751501/211196664-2a2b934e-3339-4545-b41f-093987cb6c74.mp4
+
+
